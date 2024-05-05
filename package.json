@@ -1,0 +1,17 @@
+{
+  "name": "agritech4",
+  "version": "1.0.0",
+  "description": "farmer ussd",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "autorestart": "nodemon index.js"
+  },
+  "author": "group9",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
