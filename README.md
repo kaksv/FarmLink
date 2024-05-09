@@ -1,5 +1,6 @@
 # FarmLink
 Farmlink is a revolutionary platform designed to bridge the gap between farmers and verified suppliers of authentic agricultural inputs. Leveraging USSD-based technology blockchain and Artificial Intelligence, Farmlink provides farmers with convenient access to a wide range of agricultural supplies from trusted suppliers. The platform ensures the authenticity and quality of inputs by verifying suppliers through a blockchain-based registry. The platform also keeps engaging farmers on the progress of their farming journey hence aggregating this data for trends and predictions in the crop growth lifecycle.
+![](https://drive.google.com/file/d/1Il6EwA7erf78oUZ5L8jkIaPoFf6NJD8o/view?usp=sharing)
 
 ## Benefits:
 
