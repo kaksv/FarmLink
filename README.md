@@ -15,3 +15,11 @@ Market Access:
 Farmlink connects farmers with a network of verified suppliers, expanding their market reach and ensuring access to a diverse range of agricultural products.
 
 ## Environment Setup:
+
+`npm init -y`
+create `index.js` file
+add the code for the USSD code
+Create an ngrok account and get a key
+start ngrok server with `ngrok 6008`
+start a new terminal and run the application with `node sart`
+Make sure the Africa's talking is set.
